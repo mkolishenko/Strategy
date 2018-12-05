@@ -1,9 +1,9 @@
 <?php
 
 $header = <<<HEADER
-This file is part of the "default-project" package.
+This file is an example of using Strategy template.
 
-(c) Vladimir Kuprienko <vldmr.kuprienko@gmail.com>
+(c) Maksym Kolishenko <mkolishenko@gmail.com>
 
 For the full copyright and license information, please view the LICENSE
 file that was distributed with this source code.
